@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.DS_Store
+.env
+.venv
+venv/
+artifacts/
+logs/
+*.pth
+*.pt
+*.ckpt
+data/raw/
+data/processed/
+data/tmp/
+captures/
